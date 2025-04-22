@@ -1,4 +1,3 @@
-# JAVA-CRIANDO-A-SUA-PRIMEIRA-APLICAÇÃO
 
 # 💻 Sistema Bancário em Java (Console)
 
